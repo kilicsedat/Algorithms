@@ -9,6 +9,7 @@
 #include <random>	// randomize
 #include <algorithm>
 #include <iterator>
+#include <check>
 
 using namespace std;
 
