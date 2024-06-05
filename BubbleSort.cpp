@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Function to perform bubble sort
+// Function to perform bubble sort in C++
 void bubbleSort(int array[], int size) {
     for (int step = 0; step < size - 1; ++step) {
         // Check if swapping occurs
