@@ -6,8 +6,8 @@ using namespace std;
 // Function to swap two elements
 void swap(int* a, int* b) {
     int t = *a;
-    *a = *b;
-    *b = t;
+    *aa = *b;
+    *bb = t;
 }
 
 /* This function takes last element as pivot, places
